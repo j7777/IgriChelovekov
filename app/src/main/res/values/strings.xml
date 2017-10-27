@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Игры Человеков</string>
+
+    <string name="nav_products">Продукция</string>
+    <string name="nav_categories">Категории</string>
+    <string name="nav_news">Новости</string>
+    <string name="nav_about">О нас</string>
+    <string name="nav_cart">Корзина</string>
+    <string name="nav_history">История</string>
+    <string name="nav_exit">Выход</string>
+
+    <string name="navigation_drawer_open">Открыть боковое меню</string>
+    <string name="navigation_drawer_close">Закрыть боковое меню</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_search">Поиск</string>
+    <string name="title_activity_search">Поиск</string>
+    <string name="title_activity_splash">Игры Человеков</string>
+    <string name="slogan">Игры, которые делают Человеков</string>
+    <string name="shop">Игры человеков ®</string>
+    <string name="nothing_more_download">Больше нечего загружать</string>
+    <string name="grn">гр.</string>
+    <string name="title_activity_product_full">Товар</string>
+    <string name="title_activity_cat">Категории</string>
+    <string name="title_activity_cat_full">Категория</string>
+    <string name="title_activity_news">Новости</string>
+    <string name="title_activity_news_full">Публикация</string>
+    <string name="no_search">Ничего не найдено</string>
+    <string name="string_search">Поиск: </string>
+    <string name="error_load">Ошибка при загрузке</string>
+    <string name="title_activity_about">О нас</string>
+    <string name="add_to_cart">Добавлен в корзину</string>
+    <string name="self_to_cart">Перейти</string>
+    <string name="sel_send">Выберите действие</string>
+    <string name="mess_send">Сообщение с мобильного приложения Игры Человеков</string>
+    <string name="mess_send_email">Текст сообщения</string>
+    <string name="send_cancel">Отмена</string>
+    <string name="title_activity_cart">Корзина</string>
+    <string name="title_activity_history">История</string>
+    <string name="count_str">шт.</string>
+    <string name="error_add_cart">Ошибка при добавлении в корзину</string>
+    <string name="error_dell_cart">Ошибка при удалении из корзины</string>
+    <string name="error_send_cart">Нечего отправлять</string>
+    <string name="order_str">Заказ с мобильного приложения</string>
+    <string name="total_count_str">Всего</string>
+    <string name="total_sum_str">На сумму</string>
+    <string name="cart_empty">Корзина пуста</string>
+    <string name="error_dell_history">Ошибка при удалении из истории</string>
+    <string name="history_empty">История пуста</string>
+    <string name="error_history_clear">Ошибка при очистке истории</string>
+    <string name="cart_confirm">Удалить из корзины?</string>
+    <string name="history_confirm">Восстановить в корзину?</string>
+    <string name="history_confirm_clear">Очистить историю?</string>
+    <string name="ok">ДА</string>
+
+    <string name="internet_connect">Сеть</string>
+    <string name="connect_wifi">Использовать только wifi</string>
+    <string name="count_load_title">Загрузки</string>
+    <string name="count_load_desc">Количество скачиваемых записей</string>
+    <string name="count_load_modal">Количество (1-50)</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="error_connect">Нет доступных подключений</string>
+    <string name="error_wifi">Нет одключения wifi</string>
+</resources>
